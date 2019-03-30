@@ -1,0 +1,60 @@
+V:\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+V:\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+V:\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+V:\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+V:\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+V:\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.Cache
+V:\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+V:\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+V:\CoffeeShop\CoffeeShop\bin\Debug\BUS.dll
+V:\CoffeeShop\CoffeeShop\bin\Debug\DTO.dll
+V:\CoffeeShop\CoffeeShop\bin\Debug\DAO.dll
+V:\CoffeeShop\CoffeeShop\bin\Debug\BUS.pdb
+V:\CoffeeShop\CoffeeShop\bin\Debug\DTO.pdb
+V:\CoffeeShop\CoffeeShop\bin\Debug\DAO.pdb
+V:\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FrmCustomer.resources
+V:\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FrmEmployee.resources
+V:\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FrmHome.resources
+V:\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FrmLogin.resources
+V:\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FrmHoaDon.resources
+V:\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FrmOrder.resources
+V:\QLCaPhe\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+V:\QLCaPhe\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+V:\QLCaPhe\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+V:\QLCaPhe\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+V:\QLCaPhe\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+V:\QLCaPhe\CoffeeShop\CoffeeShop\bin\Debug\BUS.dll
+V:\QLCaPhe\CoffeeShop\CoffeeShop\bin\Debug\DAO.dll
+V:\QLCaPhe\CoffeeShop\CoffeeShop\bin\Debug\DTO.dll
+V:\QLCaPhe\CoffeeShop\CoffeeShop\bin\Debug\BUS.pdb
+V:\QLCaPhe\CoffeeShop\CoffeeShop\bin\Debug\DAO.pdb
+V:\QLCaPhe\CoffeeShop\CoffeeShop\bin\Debug\DTO.pdb
+V:\QLCaPhe\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+V:\QLCaPhe\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FrmCustomer.resources
+V:\QLCaPhe\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FrmEmployee.resources
+V:\QLCaPhe\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FrmHoaDon.resources
+V:\QLCaPhe\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FrmHome.resources
+V:\QLCaPhe\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FrmLogin.resources
+V:\QLCaPhe\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FrmOrder.resources
+V:\QLCaPhe\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+V:\QLCaPhe\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.Cache
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe.config
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.exe
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.pdb
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.exe
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\CoffeeShop\bin\Debug\CoffeeShop.pdb
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\CoffeeShop\bin\Debug\BUS.dll
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\CoffeeShop\bin\Debug\DAO.dll
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\CoffeeShop\bin\Debug\DTO.dll
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\CoffeeShop\bin\Debug\BUS.pdb
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\CoffeeShop\bin\Debug\DAO.pdb
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\CoffeeShop\bin\Debug\DTO.pdb
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FrmCustomer.resources
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FrmEmployee.resources
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FrmHoaDon.resources
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FrmHome.resources
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FrmLogin.resources
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.FrmOrder.resources
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.Properties.Resources.resources
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\CoffeeShop\obj\Debug\CoffeeShop.csproj.GenerateResource.Cache

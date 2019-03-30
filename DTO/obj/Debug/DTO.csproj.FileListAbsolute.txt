@@ -1,0 +1,10 @@
+V:\CoffeeShop\DTO\bin\Debug\DTO.dll
+V:\CoffeeShop\DTO\bin\Debug\DTO.pdb
+V:\CoffeeShop\DTO\obj\Debug\DTO.dll
+V:\CoffeeShop\DTO\obj\Debug\DTO.pdb
+V:\CoffeeShop\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\DTO\bin\Debug\DTO.dll
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\DTO\bin\Debug\DTO.pdb
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\DTO\obj\Debug\DTO.dll
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\DTO\obj\Debug\DTO.pdb

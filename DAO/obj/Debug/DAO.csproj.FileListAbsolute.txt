@@ -1,0 +1,15 @@
+V:\CoffeeShop\DAO\bin\Debug\DAO.dll
+V:\CoffeeShop\DAO\bin\Debug\DAO.pdb
+V:\CoffeeShop\DAO\bin\Debug\DTO.dll
+V:\CoffeeShop\DAO\bin\Debug\DTO.pdb
+V:\CoffeeShop\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+V:\CoffeeShop\DAO\obj\Debug\DAO.dll
+V:\CoffeeShop\DAO\obj\Debug\DAO.pdb
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\DAO\bin\Debug\DAO.dll
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\DAO\bin\Debug\DAO.pdb
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\DAO\bin\Debug\DTO.dll
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\DAO\bin\Debug\DTO.pdb
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\DAO\obj\Debug\DAO.dll
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\DAO\obj\Debug\DAO.pdb
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\DAO\bin\Debug\DAO.dll.config

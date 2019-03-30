@@ -1,0 +1,18 @@
+V:\CoffeeShop\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+V:\CoffeeShop\BUS\bin\Debug\BUS.dll
+V:\CoffeeShop\BUS\bin\Debug\BUS.pdb
+V:\CoffeeShop\BUS\bin\Debug\DAO.dll
+V:\CoffeeShop\BUS\bin\Debug\DTO.dll
+V:\CoffeeShop\BUS\bin\Debug\DAO.pdb
+V:\CoffeeShop\BUS\bin\Debug\DTO.pdb
+V:\CoffeeShop\BUS\obj\Debug\BUS.dll
+V:\CoffeeShop\BUS\obj\Debug\BUS.pdb
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\BUS\bin\Debug\BUS.dll
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\BUS\bin\Debug\BUS.pdb
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\BUS\bin\Debug\DAO.dll
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\BUS\bin\Debug\DTO.dll
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\BUS\bin\Debug\DAO.pdb
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\BUS\bin\Debug\DTO.pdb
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\BUS\obj\Debug\BUS.dll
+C:\Users\lam\Desktop\New folder(9)\CoffeeShop\BUS\obj\Debug\BUS.pdb
